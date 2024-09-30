@@ -1,0 +1,7 @@
+node src/checkMixpanelEvents.js
+
+create .env file:
+MIXPANEL_PROJECT_ID=
+MIXPANEL_API_SECRET=
+MIXPANEL_API_USERNAME=
+MIXPANEL_KEY=
